@@ -13,14 +13,14 @@ This repository contains the source code for ID-Info-Extractor-using-Gemeni appl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RafayethRafi/Conversational_Chatbot.git
+   git clone https://github.com/RafayethRafi/Blog_Generation-using-Llama2.git
 
    ```
 
 2. Go the to folder:
 
    ```bash
-   cd Conversational_Chatbot
+   cd Blog_Generation-using-Llama2
 
    ```
 
