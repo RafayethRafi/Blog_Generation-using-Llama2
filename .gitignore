@@ -1,0 +1,32 @@
+models/llama-2-7b-chat.Q8_0.gguf
+
+*.env
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+ENV/
+
+# IDE and text editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+lib/
+libs/
+Library/
+
+# Distribution folders
+/bin/
+/build/
+/dist/
+/downloads/
+
+# Misc
+*.bak
+*.swp
+.DS_Store
